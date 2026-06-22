@@ -1,0 +1,6 @@
+# Archivos compilados de Java
+*.class
+
+# Logs de error de Java
+hs_err_pid*.log
+replay_pid*.log
